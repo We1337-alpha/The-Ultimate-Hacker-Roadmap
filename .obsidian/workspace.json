@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "5d970525922db42a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3913b1e7e9ca8002",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d968076f8be53552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clueless/BIOS Firmware Upgrades.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f066632d7ae7951f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP/TOP 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5f1d636b405b47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP/TOP 10.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71c4ed1ef5c1f332",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5d6f25135cc2283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "738bd5dd857ce48f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c132ce7b371fd43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f002b096b6ec60ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f956f978ee3152b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "267ee638735f18ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e3b9c9abd0400d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clueless/BIOS Firmware Upgrades.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d1098cef789c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clueless/BIOS Firmware Upgrades.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fb0b3bf59376d5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9a75191dc84e5fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clueless/BIOS Firmware Upgrades.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "738bd5dd857ce48f",
+  "lastOpenFiles": [
+    "OWASP/A01 Broken Access Control.md",
+    "The Ultimate Hacker Roadmap.md",
+    "OWASP/TOP 10.md",
+    "README.md",
+    "Clueless/Clueless.md",
+    "Clueless",
+    "OWASP",
+    "Clueless/Memory Speeds.md",
+    "Clueless/FAT32.md",
+    "Clueless/Memory Addressing.md",
+    "Clueless/DDR1, DDR2, DDR3, DDR4, DDR5.md",
+    "Clueless/eMMC.md",
+    "Clueless/SSDs.md",
+    "Clueless/Magnetic HDDs.md",
+    "Clueless/EFI - UEFI.md",
+    "Clueless/MBR.md",
+    "Clueless/NTFS.md",
+    "Clueless/ext2, ext3, ext4.md",
+    "Clueless/Partitioning.md",
+    "Clueless/Secure Boot.md",
+    "Clueless/Enabling Virtualization Support.md",
+    "Clueless/BIOS Firmware Upgrades.md",
+    "Clueless/CPU Clockspeeds.md",
+    "Clueless/CMOS Batteries.md",
+    "Clueless/Changing Date - Time.md",
+    "Clueless/Enabling - Disabling Devices.md",
+    "Clueless/Boot Sequence.md"
+  ]
+}
