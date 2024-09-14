@@ -34,60 +34,61 @@ These are the skills you'll need to have to _break into the field_. Acquiring t
     - [[Memory Speeds]]
     - [[Memory Addressing]]
 - **CPUs**
-    - Intel
-        - i3, i5, i7, i9
-    - AMD
-        - Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9
-    - 32bit CPUs
-    - 64bit CPUs
-    - MultiThreading vs. MultiProcessing
+    - [[Intel]]
+        - [[i3, i5, i7, i9, i11]]
+    - [[AMD]]
+        - [[Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9, Ryzen 11]]
+    - [[32bit CPUs]]
+    - [[64bit CPUs]]
+    - [[Arm]]
+    - [[MultiThreading vs. MultiProcessing]]
 - **GPUs**
-    - Integrated vs. Discrete GPUs
-    - Ray Tracing
-    - GPU Memory
-    - GPU Bandwidth
+    - [[Integrated vs. Discrete GPUs]]
+    - [[Ray Tracing]]
+    - [[GPU Memory]]
+    - [[GPU Bandwidth]]
 - **Caching**
-    - Web Caching
-    - Data Caching
-    - Application/Output Caching
-    - Distributed Caching
-- **Common File Exstentions**
+    - [[Web Caching]]
+    - [[Data Caching]]
+    - [[Application-Output Caching]]
+    - [[Distributed Caching]]
+- **Common File Exstentions]]**
     - Executables
-        - .exe
-        - .o
-        - .sh
+        - [[file.exe]]
+        - [[file.o]]
+        - [[file.sh]]
     - Library files
-        - .dll
-        - .so
-        - .lib
+        - [[file.dll]]
+        - [[file.so]]
+        - [[file.lib]]
     - Web files
-        - .html
-        - .php
-        - .css
-        - .js
+        - [[file.html]]
+        - [[file.php]]
+        - [[file.css]]
+        - [[file.js]]
     - Image files
-        - .jpg
-        - .svg
-        - .png
+        - [[file.jpg]]
+        - [[file.svg]]
+        - [[file.png]]
     - Document files
-        - .doc
-        - .txt
-        - .pdf
+        - [[file.doc]]
+        - [[file.txt]]
+        - [[file.pdf]]
     - Code files
-        - .c
-        - .cpp
-        - .py
+        - [[file.c]]
+        - [[file.cpp]]
+        - [[file.py]]
     - Key files
-        - .pub
-        - .pem
-        - .der
+        - [[file.pub]]
+        - [[file.pem]]
+        - [[file.der]]
 - **Encoding**
-    - Base64
-    - ASCII
-    - UTF-8
+    - [[Base64]]
+    - [[ASCII]]
+    - [[UTF-8]]
 - **RAIDs**
-    - RAID 0
-    - RAID 1
-    - RAID 5
-    - RAID 6
-    - RAID 10
+    - [[RAID 0]]
+    - [[RAID 1]]
+    - [[RAID 5]]
+    - [[RAID 6]]
+    - [[RAID 10]]

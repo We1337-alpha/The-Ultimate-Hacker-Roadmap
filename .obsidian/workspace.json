@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3913b1e7e9ca8002",
+        "id": "83a03863cbf5b054",
         "type": "tabs",
         "children": [
           {
-            "id": "d968076f8be53552",
+            "id": "c69230fa3e1d7e84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clueless/BIOS Firmware Upgrades.md",
+                "file": "Clueless/Clueless.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f066632d7ae7951f",
+            "id": "93d911a747e575b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP/TOP 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5f1d636b405b47b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OWASP/TOP 10.md",
+                "file": "The Newbie's Curriculum - Level 1.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clueless/BIOS Firmware Upgrades.md",
+                "file": "The Newbie's Curriculum - Level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clueless/BIOS Firmware Upgrades.md",
+                "file": "The Newbie's Curriculum - Level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clueless/BIOS Firmware Upgrades.md"
+                "file": "The Newbie's Curriculum - Level 1.md"
               }
             }
           }
@@ -170,34 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "738bd5dd857ce48f",
+  "active": "93d911a747e575b0",
   "lastOpenFiles": [
-    "OWASP/A01 Broken Access Control.md",
-    "The Ultimate Hacker Roadmap.md",
-    "OWASP/TOP 10.md",
-    "README.md",
     "Clueless/Clueless.md",
+    "The Newbie's Curriculum - Level 1.md",
+    "Newbie",
+    "README.md",
+    "Clueless/Web Caching.md",
+    "Clueless/UTF-8.md",
+    "Clueless/The Ultimate Hacker Roadmap.md",
+    "Clueless/Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9, Ryzen 11.md",
+    "Clueless/Ray Tracing.md",
+    "Clueless/RAID 10.md",
+    "Clueless/RAID 6.md",
+    "Clueless/RAID 5.md",
+    "Clueless/RAID 1.md",
+    "Clueless/RAID 0.md",
+    "Clueless/MultiThreading vs. MultiProcessing.md",
+    "Clueless/Intel.md",
+    "Clueless/Integrated vs. Discrete GPUs.md",
+    "Clueless/i3, i5, i7, i9, i11.md",
+    "Clueless/GPU Memory.md",
+    "Clueless/GPU Bandwidth.md",
+    "Clueless/file.txt.md",
+    "Clueless/file.svg.md",
+    "Clueless/file.so.md",
+    "Clueless/file.sh.md",
+    "Clueless/file.py.md",
+    "Clueless/file.pub.md",
+    "Clueless/file.png.md",
     "Clueless",
-    "OWASP",
-    "Clueless/Memory Speeds.md",
-    "Clueless/FAT32.md",
-    "Clueless/Memory Addressing.md",
-    "Clueless/DDR1, DDR2, DDR3, DDR4, DDR5.md",
-    "Clueless/eMMC.md",
-    "Clueless/SSDs.md",
-    "Clueless/Magnetic HDDs.md",
-    "Clueless/EFI - UEFI.md",
-    "Clueless/MBR.md",
-    "Clueless/NTFS.md",
-    "Clueless/ext2, ext3, ext4.md",
-    "Clueless/Partitioning.md",
-    "Clueless/Secure Boot.md",
-    "Clueless/Enabling Virtualization Support.md",
-    "Clueless/BIOS Firmware Upgrades.md",
-    "Clueless/CPU Clockspeeds.md",
-    "Clueless/CMOS Batteries.md",
-    "Clueless/Changing Date - Time.md",
-    "Clueless/Enabling - Disabling Devices.md",
-    "Clueless/Boot Sequence.md"
+    "OWASP"
   ]
 }
