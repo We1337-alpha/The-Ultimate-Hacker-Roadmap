@@ -87,6 +87,7 @@ These are the skills you'll need to have to _break into the field_. Acquiring t
     - [[ASCII]]
     - [[UTF-8]]
 - **RAIDs**
+    - [[RAID]]
     - [[RAID 0]]
     - [[RAID 1]]
     - [[RAID 5]]

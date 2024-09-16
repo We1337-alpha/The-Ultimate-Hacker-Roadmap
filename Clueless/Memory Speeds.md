@@ -13,5 +13,3 @@
 - **DDR5:** Typically ranges from 4800 MHz and higher.
 
 **Note:** Memory speeds can also be affected by other factors, such as memory latency and the number of memory channels supported by your system.
-
-**Would you like to know more about specific memory types or how to improve memory performance?**

@@ -19,5 +19,3 @@
 - Larger data types, such as words (2 bytes), double words (4 bytes), and quad words (8 bytes), can be accessed by combining multiple bytes.
 
 **Memory addressing is a crucial concept in computer architecture, as it allows the CPU to efficiently access and manipulate data stored in memory.**
-
-**Would you like to know more about specific addressing modes or how memory addressing is used in different programming languages?**

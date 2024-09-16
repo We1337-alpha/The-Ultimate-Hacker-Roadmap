@@ -40,7 +40,7 @@ If you want to become an Associate Penetration Tester then you should put 80% of
    * [[w3af]]
    * [[CeWL]]
    * [[testssl.sh]]
-      * **Less-Used Web App Tools...*
+      * **Less-Used Web App Tools...**
          * [[Aquatone]]
          * [[EyeWitness]]
          * [[Hydra]]
@@ -100,75 +100,75 @@ If you want to become an Associate Penetration Tester then you should put 80% of
 
 ## Web Application Fundamentals
   * **HTML**
-    * MetaTags]]
-    * Forms]]
-    * Attributes]]
-    * iFrames]]
+    * [[MetaTags]]
+    * [[Forms]]
+    * [[Attributes]]
+    * [[iFrames]]
   * **CSS**
     * **CSS Frameworks:**
-      * Bootstrap]]
-      * Google Material]]
-      * Purple]]
-    * Stylesheet Subresource Integrity]]
+      * [[Bootstrap]]
+      * [[Google Material]]
+      * [[Purple]]
+    * [[Stylesheet Subresource Integrity]]
   * **XML**
-    * SVG Images]]
-    * SAML]] _(Basic Familiarity)_
+    * [[SVG Images]]
+    * [[SAML]] _(Basic Familiarity)_
   * **JavaScript**
     * JavaScript Syntax Fundamentals
-      * Function Prototyping]]
-      * XMLHttpRequest()]]
-      * JSON]] _(Data Serialization)_
-    * jQuery]] _(Basic Familiarity)_
-    * JavaScript Frameworks]] _(Basic Familiarity)_
-      * Angular]]
-      * Angular2]]
-      * React]]
-      * Vue]]
-    * JavaScript Subresource Integrity]]
+      * [[Function Prototyping]]
+      * [[XMLHttpRequest()]]
+      * [[JSON]] _(Data Serialization)_
+    * [[jQuery]] _(Basic Familiarity)_
+    * [[JavaScript Frameworks]] _(Basic Familiarity)_
+      * [[Angular]]
+      * [[Angular2]]
+      * [[React]]
+      * [[Vue]]
+    * [[JavaScript Subresource Integrity]]
   * **Same-Origin Policy _(SOP)_**
   * **CORS**
-    * Preflight Requests]]
+    * [[Preflight Requests]]
   * **Content Deliver Networks _(CDNs)_**
   * **MVC Design Pattern**
     * [[Models]]
     * [[Views]]
     * [[Controllers]]
   * **HTTP Headers**
-    * User-Agent
-    * Host
-    * Cookie
-    * Authorization
-    * Content-Type _(MIME Types)_
-    * Transfer-Encoding
-    * Accept-Encoding
-    * Upgrade
+    * [[User-Agent]]
+    * [[Host]]
+    * [[Cookie]]
+    * [[Authorization]]
+    * [[Content-Type]] _(MIME Types)_
+    * [[Transfer-Encoding]]
+    * [[Accept-Encoding]]
+    * [[Upgrade]]
     * **CORS Headers**
-      * Origin
-      * Access-Control-Allow-Origin
-      * Access-Control-Allow-Credentials
-      * Access-Control-Request-Method
-      * Access-Control-Request-Headers
+      * [[Origin]]
+      * [[Access-Control-Allow-Origin]]
+      * [[Access-Control-Allow-Credentials]]
+      * [[Access-Control-Request-Method]]
+      * [[Access-Control-Request-Headers]]
     * **HTTP Security Headers**
-      * Strict-Transport-Security
-      * Content-Security-Policy
-      * X-XSS-Protection
-      * X-Frame-Options
-      * X-Content-Type-Options
-    * X-Csrf-Token
+      * [[Strict-Transport-Security]]
+      * [[Content-Security-Policy]]
+      * [[X-XSS-Protection]]
+      * [[X-Frame-Options]]
+      * [[X-Content-Type-Options]]
+    * [[Http Memory Speeds]]
   * **HTTP Requests**
-    * GET
-    * POST
-    * PUT
-    * DELETE
-    * OPTIONS
+    * [[GET]]
+    * [[POST]]
+    * [[PUT]]
+    * [[DELETE]]
+    * [[OPTIONS]]
   * **Session Management**
     * **Cookies**
-      * Cookie Flags / Cookie Prefixes
-        * HttpOnly
-        * HostOnly
-        * Secure
-        * Same-Site
-        * Expires
+      * [[Cookie Flags / Cookie Prefixes]]
+        * [[HttpOnly]]
+        * [[HostOnly]]
+        * [[Secure]]
+        * [[Same-Site]]
+        * [[Expires]]
     * **JSON Web Tokens _(JWT)_**
       * JWS vs. JWE
         * JWT Header
